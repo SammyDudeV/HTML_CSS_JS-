@@ -1,0 +1,15 @@
+html {
+	text-align: center;
+	margin: 15px 250px 50px 250px;
+}
+
+h1, div {
+	font-family: Helvetica;
+}
+
+p {
+	font-family: Helvetica;
+	background-color: #B3E3F5;
+	padding: 10px;
+	border: 10px solid #F3E8C4;
+}
